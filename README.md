@@ -51,3 +51,7 @@ Warner Bros Pictures generates the most ROI across horror, thriller, and mystery
 -**Consider actors/actresses**: Actors and actresses may be the reason why a specific genre or movie generates a large ROI. It's important to account for all factors associated with return and their effects on one another.
 
 -**Expand to streaming services**: In the modern day, an abundant of movies are exclusively found on online streaming platforms rather than movie theatres so it's extremely important to consider this outlet as another form of revenue growth. 
+
+## For More Information
+
+Read the full analysis in our [Jupyter Notebook](./movie-data-analysis.ipynb)
